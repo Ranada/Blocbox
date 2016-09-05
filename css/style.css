@@ -71,7 +71,9 @@ p {
 	.container {
 		width: 1800px;
 	}
-	.hero {
+	h1 {
+		font-style: italic;
+		font-size: 3.0em;
 		color: red;
 	}
 }
@@ -325,6 +327,10 @@ header .hero img {
 }
 .call-to-action h2, .call-to-action p {
 	color: #FFFFFF;
+}
+.offset {
+	position: relative;
+	top: 20px;
 }
 
 /* FOOTER */
