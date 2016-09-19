@@ -160,7 +160,11 @@ nav .items ul li a {
 	border-bottom-width: 3px;
 	border-bottom-color: #172D33;
 }
-
+.btn-section {
+	display: inline-block;
+	color: #1C515E;
+	position: relative;
+}
 
 /* Content */
 
